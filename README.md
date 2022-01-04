@@ -2,6 +2,15 @@
 A small .esp that brightens most interior scenes
 
 # Changelog
+## v0.3
+Tweaked Nipton's interior cells. The AWOP sewers are still not done.
+## Tweaked cells:
+* Nipton General Store
+* Nipton Town Hall (all 3 floors)
+* Nipton Hotel
+* Nipton houses (8 in total)
+## Tweaked templates:
+* NiptonHouse
 ## v0.2
 ## Tweaked cells:
 * Primm Sewers (AWOP)
