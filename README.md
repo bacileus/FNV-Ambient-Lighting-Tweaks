@@ -3,7 +3,15 @@ A small .esp that brightens most interior scenes
 
 # Changelog
 ## v0.2
-Coming soon...
+## Tweaked cells:
+* Primm Sewers (AWOP)
+* Toxic Cave (AWOP)
+* Nevada Highway Patrol Station
+* Nipton Road reststop
+* Mojave Outpost Barracks
+* Mojave Outpost Headquarters
+## Tweaked templates:
+* SulfurMineTemplate
 ## v0.1
 Initial release. Tweaked RWL overcast weather.
 ### Tweaked cells:
