@@ -2,6 +2,12 @@
 A small .esp that brightens most interior scenes
 
 # Changelog
+## v0.4
+## Tweaked cells:
+* Pit Stop Bomb Shelter
+## Tweaked templates:
+* CavesDefaultTemplate
+* IndustrialDefaultTemplate
 ## v0.3
 Tweaked Nipton's interior cells. The AWOP sewers are still not done.
 ## Tweaked cells:
