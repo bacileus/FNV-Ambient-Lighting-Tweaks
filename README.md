@@ -2,6 +2,14 @@
 A small .esp that brightens most interior scenes
 
 # Changelog
+## v0.5
+## Tweaked cells:
+* Hidden Supply Cave
+* Radscorpion Cave (AWOP)
+* The Prospector Den (shack only)
+* Wolforn Ranch Farmhouse
+## Tweaked templates:
+* NCRCFInterior
 ## v0.4
 ## Tweaked cells:
 * Pit Stop Bomb Shelter
