@@ -3,47 +3,47 @@ A small .esp that brightens most interior scenes
 
 # Changelog
 ## v0.6
-## Tweaked cells:
+#### Tweaked cells:
 * Walking Box Cavern
 * Viper's Lair (AWOP)
 * Abandoned Mine (AWOP)
 * Ranger Station Charlie
 ## v0.5
-## Tweaked cells:
+#### Tweaked cells:
 * Hidden Supply Cave
 * Radscorpion Cave (AWOP)
 * The Prospector Den (shack only)
 * Wolforn Ranch Farmhouse
-## Tweaked templates:
+#### Tweaked templates:
 * NCRCFInterior
 ## v0.4
-## Tweaked cells:
+#### Tweaked cells:
 * Pit Stop Bomb Shelter
-## Tweaked templates:
+#### Tweaked templates:
 * CavesDefaultTemplate
 * IndustrialDefaultTemplate
 ## v0.3
 Tweaked Nipton's interior cells. The AWOP sewers are still not done.
-## Tweaked cells:
+#### Tweaked cells:
 * Nipton General Store
 * Nipton Town Hall (all 3 floors)
 * Nipton Hotel
 * Nipton houses (8 in total)
-## Tweaked templates:
+#### Tweaked templates:
 * NiptonHouse
 ## v0.2
-## Tweaked cells:
+#### Tweaked cells:
 * Primm Sewers (AWOP)
 * Toxic Cave (AWOP)
 * Nevada Highway Patrol Station
 * Nipton Road reststop
 * Mojave Outpost Barracks
 * Mojave Outpost Headquarters
-## Tweaked templates:
+#### Tweaked templates:
 * SulfurMineTemplate
 ## v0.1
 Initial release. Tweaked RWL overcast weather.
-### Tweaked cells:
+#### Tweaked cells:
 * Prospector Saloon
 * Goodsprings Schoolhouse
 * Goodsprings Gas Station
@@ -54,7 +54,7 @@ Initial release. Tweaked RWL overcast weather.
 * Both Primm NCR Tents
 * Nash Residence
 * The Bison Steve Hotel (Floors 1, 2 & 3)
-### Tweaked templates:
+#### Tweaked templates:
 * ShackDefaultTemplate
 * WastelandInteriorTemplate
 * EnclaveLightingTemplate01
