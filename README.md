@@ -2,6 +2,12 @@
 A small .esp that brightens most interior scenes
 
 # Changelog
+## v0.6
+## Tweaked cells:
+* Walking Box Cavern
+* Viper's Lair (AWOP)
+* Abandoned Mine (AWOP)
+* Ranger Station Charlie
 ## v0.5
 ## Tweaked cells:
 * Hidden Supply Cave
