@@ -1,4 +1,13 @@
 # Changelog
+## v0.7
+### Tweaked cells:
+* McBride House
+* Dino Bite Gift Shop
+* No-bark's Shack
+* Novac Houses (Generic01 & 02)
+### Tweaked templates:
+* NovacInterior
+
 ## v0.6
 ### Tweaked cells:
 * Walking Box Cavern
