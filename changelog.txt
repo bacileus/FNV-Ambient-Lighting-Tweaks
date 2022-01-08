@@ -1,4 +1,18 @@
 # Changelog
+# v0.8
+## Tweaked cells:
+* Repconn Test Site (middle & bottom floors)
+* Willow's bungalow
+* Novac Shipping Office (AWOP)
+* Novac Collapsed Tunnels (AWOP)
+* Novac Sewers East & West (AWOP)
+* Water Testing Site (AWOP)
+* Clark Field Reservoir (AWOP)
+## Tweaked templates:
+* OfficeDefaultTemplate
+* RepconnFacility
+* MetroDefaultTemplate
+
 ## v0.7
 ### Tweaked cells:
 * McBride House
