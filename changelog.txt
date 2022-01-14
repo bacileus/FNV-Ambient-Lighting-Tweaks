@@ -1,4 +1,13 @@
 # Changelog
+# v0.9
+## Tweaked cells:
+* Infested NCR Bunker (both plants)
+* Deputy Beagle House
+* Primm's Sheriff House
+## Tweaked templates:
+* HiddenValleyInterior
+* UnderworldTemplate
+
 # v0.8
 ## Tweaked cells:
 * Repconn Test Site (middle & bottom floors)
