@@ -1,4 +1,26 @@
 # Changelog
+# v0.10
+## Tweaked cells:
+* New Vegas Medical Clinic
+* Fiend Hideout (AWOP)
+* Riddler's Toys & Games (AWOP)
+* Van (Mobile Truck)
+* The King's School
+* Freeside Ruined Store
+* North Sewers
+* Northwest Sewers
+* Southwest Sewers
+* Sealed Sewers
+* The Thorn
+* The Thorn's Creatures
+* The Gray
+* Miguel's Pawn Shop
+* Westside Co-op
+* Klamath Bob's Liquor Store
+* Casa Madrid Apartments
+* North Cistern
+* South Cistern
+
 # v0.9
 ## Tweaked cells:
 * Infested NCR Bunker (both plants)
