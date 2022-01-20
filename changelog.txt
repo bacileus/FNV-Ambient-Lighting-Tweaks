@@ -1,4 +1,17 @@
 # Changelog
+# v0.11
+## Tweaked cells:
+* Goodsprings houses
+* Sloan
+* Hell's Motel
+* Radiological Research Facility (AWOP)
+* Nipton Road rest stop
+* Canyon Station Utility Tunnels (AWOP)
+* Sunnytime Cigarettes Office & Bunker (AWOP)
+* The Tops Casino
+## Tweaked templates
+* StatesmanHotelTemplate
+
 # v0.10
 ## Tweaked cells:
 * New Vegas Medical Clinic
@@ -91,7 +104,6 @@ Tweaked Nipton's interior cells. The AWOP sewers are still not done.
 * Primm Sewers (AWOP)
 * Toxic Cave (AWOP)
 * Nevada Highway Patrol Station
-* Nipton Road reststop
 * Mojave Outpost Barracks
 * Mojave Outpost Headquarters
 ### Tweaked templates:
