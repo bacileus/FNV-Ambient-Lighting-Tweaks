@@ -1,4 +1,15 @@
 # Changelog
+# v0.12
+## Tweaked cells:
+* NCR Embassy
+* Montecarlo Suites
+* Summer Springs Boarding House (AWOP)
+* Hopewell Apartments (AWOP)
+* REPCONN headquarters
+* Ant Mound
+* Allied Technologies Offices
+* Brooks Tumbleweed Ranch
+
 # v0.11
 ## Tweaked cells:
 * Goodsprings houses
