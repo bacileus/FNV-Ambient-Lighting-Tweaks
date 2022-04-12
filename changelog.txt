@@ -1,4 +1,8 @@
 # Changelog
+# v0.13
+* Tweaked overcast & dusty weather IMODs.
+* Rised night brightness.
+
 # v0.12
 ## Tweaked cells:
 * NCR Embassy
