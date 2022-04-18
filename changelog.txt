@@ -1,4 +1,9 @@
 # Changelog
+# v0.12
+## Tweaked cells:
+* Biohazard Disposal Site (AWOP)
+* Sawtooth Caverns (AWOP)
+
 # v0.13
 * Tweaked overcast & dusty weather IMODs.
 * Rised night brightness.
